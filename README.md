@@ -11,7 +11,7 @@ A simple API for managing users that I built while learning Flask and MongoDB. I
 I wanted to understand:
 - How to use MongoDB with Flask (it's different from SQL!)
 - Proper REST API design
-- Docker containerization
+- Docker containerization 
 
 ## Features (That Actually Work)
 
