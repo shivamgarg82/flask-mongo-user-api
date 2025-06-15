@@ -5,7 +5,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-5.0+-green?style=flat-square)
 
 A simple API for managing users that I built while learning Flask and MongoDB. It's not perfect, but it works!
-
+ 
 ## Why I Built This
 
 I wanted to understand:
