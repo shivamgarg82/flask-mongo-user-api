@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.9+-blue?style=flat-square)
 ![Flask](https://img.shields.io/badge/flask-2.0.*-lightgrey?style=flat-square)
-![MongoDB](https://img.shields.io/badge/mongodb-5.0+-green?style=flat-square)
+![MongoDB](https://img.shields.io/badge/mongodb-5.0+-green?style=flat-square) 
 
 A simple API for managing users that I built while learning Flask and MongoDB. It's not perfect, but it works!
  
